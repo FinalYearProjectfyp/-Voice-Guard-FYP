@@ -4,7 +4,7 @@
 
 **Project:** Voice-Guard-FYP — AI voice clone / deepfake audio detection
 
-**Supervisor:** Sir Muhammad Fahad
+**Supervisor:** Mr Muhammad Fahad
 
 ---
 
@@ -13,7 +13,6 @@
 **Completed this week**
 - Formed the FYP group
 - Conducted individual research on possible domains, topics, and project ideas
-- Held group discussions on selecting a supervisor and co-supervisor
 - Finalized project domain direction: AI voice clone / deepfake audio detection
 - Set up GitHub account and repository for the project
 
@@ -33,7 +32,7 @@
 ## Week 2 (13–19 Sep 2026)
 
 **Completed this week**
-- Confirmed supervisor: Sir Muhammad Fahad
+- Confirmed supervisor: Mr Muhammad Fahad
 - Narrowed project domain to AI
 - Each group member researched and proposed five candidate topics
 - Met with supervisor (today, 1:15 PM) — presented topic options
@@ -49,5 +48,16 @@
 **Plan for next week**
 - Finalize project scope (voice clone detection focus)
 - Complete research on suitable tools/frameworks
-- Discuss with supervisor to get a second (co-)supervisor assigned
 - Meet supervisor Monday, 12:00 PM to present findings and get direction
+
+## Week 3 (21–26 Sep 2026)
+
+**21 sep 26**
+- finalize the topic after meeting with supervisor
+- discussed the possible innovations that can be made
+- scheduled the next meeting on 22 september
+  **Plan for next meeting**
+  -will discuss the draft of the project
+
+
+
