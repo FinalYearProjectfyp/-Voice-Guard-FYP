@@ -52,12 +52,25 @@
 
 ## Week 3 (21–26 Sep 2026)
 
-**21 sep 26**
-- finalize the topic after meeting with supervisor
-- discussed the possible innovations that can be made
-- scheduled the next meeting on 22 september
-  **Plan for next meeting**
-  -will discuss the draft of the project
+**Completed this week**
+- Finalized the topic after meeting with supervisor
+- Discussed possible innovations that can be made
+
+**Plan for next meeting**
+- Discuss the draft of the project
+
+## Week 4 (28 sep–3 oct 2026)
+
+- Met supervisor as scheduled
+- Supervisor showed existing datasets and models related to voice clone/deepfake detection
+- Instructed to build the initial draft using an existing dataset and model first
+- Goal for draft: check baseline accuracy before adding further improvements
+- Project will be prolonged/extended further after the draft stage
+
+**Plan for next meeting**
+- Explore the shared datasets and models
+- Set up the initial draft using existing dataset/model
+- Record baseline accuracy results
 
 
 
