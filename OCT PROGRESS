@@ -1,0 +1,8 @@
+**WEEK 1(1 OCT 3 OCT)
+**Meeting with Supervisor**
+- Presented research on existing voice-clone detection models
+- Shared draft documents (investor pitch + build plan) with supervisor
+- Supervisor instructed us to research and decide which model(s) to train our dataset on
+
+**Plan for next meeting**
+- Shortlist candidate models (e.g. RawNet2, AASIST, Wav2Vec2/XLS-R) and justify the choice
